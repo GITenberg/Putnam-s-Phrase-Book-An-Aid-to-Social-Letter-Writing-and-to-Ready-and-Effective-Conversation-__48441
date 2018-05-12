@@ -1,10 +1,16 @@
 _repo: Putnam-s-Phrase-Book-An-Aid-to-Social-Letter-Writing-and-to-Ready-and-Effective-Conversation-__48441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48441-h/images/cover.jpg
 creator:
   author:
     agent_name: Carr, Edwin Hamlin
     gutenberg_agent_id: '44799'
     url: http://www.gutenberg.org/2009/agents/44799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48441#Putnam-s-Phrase-Book-An-Aid-to-Social-Letter-Writing-and-to-Ready-and-Effective-Conversation-_
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
