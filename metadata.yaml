@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Putnam's Phrase Book\r\nAn Aid to Social Letter Writing and to Ready and Effective\
   \ Conversation, with Over 100 Model Social Letters and 6000 of the World's Best\
   \ English Phrases"
